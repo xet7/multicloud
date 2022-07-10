@@ -34,7 +34,7 @@
   "license": "MIT",
   "dependencies": {
     "@multicloud/sls-core": "^0.1.1-13",
-    "aws-sdk": "2.476.0",
+    "aws-sdk": "^2.1171.0",
     "inversify": "5.0.1",
     "reflect-metadata": "0.1.13"
   },
@@ -47,7 +47,7 @@
     "babel-plugin-transform-typescript-metadata": "0.2.2",
     "babel-preset-react-app": "^9.0.0",
     "eslint": "^5.16.0",
-    "jest": "^24.8.0",
+    "jest": "^28.1.2",
     "shx": "^0.3.2",
     "typescript": "^3.5.2"
   },

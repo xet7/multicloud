@@ -33,7 +33,7 @@
   "author": "Microsoft Corporation, 7-Eleven & Serverless Inc",
   "license": "MIT",
   "dependencies": {
-    "@azure/storage-blob": "10.3.0",
+    "@azure/storage-blob": "^10.5.0",
     "@multicloud/sls-core": "^0.1.1-13",
     "inversify": "5.0.1",
     "reflect-metadata": "0.1.13",
@@ -45,10 +45,10 @@
     "@typescript-eslint/eslint-plugin": "^1.9.0",
     "@typescript-eslint/parser": "^1.9.0",
     "babel-jest": "^24.8.0",
-    "babel-preset-react-app": "^9.0.0",
     "babel-plugin-transform-typescript-metadata": "0.2.2",
+    "babel-preset-react-app": "^9.0.0",
     "eslint": "^5.16.0",
-    "jest": "^24.8.0",
+    "jest": "^28.1.2",
     "shx": "^0.3.2",
     "typescript": "^3.5.2"
   },
