@@ -43,7 +43,7 @@
     "babel-plugin-transform-typescript-metadata": "0.2.2",
     "babel-preset-react-app": "^9.0.0",
     "eslint": "^5.16.0",
-    "jest": "^24.8.0",
+    "jest": "^29.6.1",
     "shx": "^0.3.2",
     "typescript": "^3.5.2"
   },
