@@ -15,7 +15,7 @@
     "@hapi/joi": "15.1.0",
     "@multicloud/sls-azure": "0.0.8-6",
     "@multicloud/sls-core": "0.0.11-7",
-    "mongoose": "5.13.20"
+    "mongoose": "8.8.3"
   },
   "devDependencies": {
     "@azure/functions": "^1.0.1-beta1",
